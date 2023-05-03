@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shansim
 - 👀 I’m interested in fullstack software enginnering, machine learning and data science.
-- 🌱 I’m currently learning software enginnering at ALX.
+- 🌱 I’m currently learning at ALX.
 - 📫 My email is shannonsimiyu@gmail.com
 
 <!---
