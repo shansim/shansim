@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shannon Simiyu</h1>
-<h3 align="center">A passionate full-stack software Engineer and Data Scientist.</h3>
+<h3 align="center">Full-stack software Engineer and Data Scientist.</h3>
 
 - 📫 How to reach me **shannonsimiyu@gmail.com**
 
