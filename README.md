@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shannonsimiyu@gmail.com**
 - 🚀 Passionate about creating clean, efficient, and scalable software solutions
-- 🌐 Specialized in web development, android development, machine learning. Constantly exploring new technologies and frameworks.
+- 🌐 Specialized in web development, and machine learning. Constantly exploring new technologies and frameworks.
 - 🛠️ Proficient with Git
 - 🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!
 
